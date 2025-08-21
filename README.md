@@ -29,8 +29,5 @@ This project performs anomaly detection on system log files using machine learni
   - numpy
   - scikit-learn
 
-You can install the required packages with:
-pip install -r requirements.txt
-
 ## Output
 <img width="1758" height="446" alt="Screenshot 2025-08-09 143554" src="https://github.com/user-attachments/assets/9f2c85b0-c2f5-45f0-8250-513a429fc1a0" />
