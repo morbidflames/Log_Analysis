@@ -17,12 +17,9 @@ This project performs anomaly detection on system log files using machine learni
   Flag each log entry as either normal or anomalous and print detected anomalies for further inspection.
 
 ## Project Structure
-'''
-.
-├── README.md # Project documentation
-├── ai_log_analysis_script.py # Python script for log anomaly detection
-└── system_logs.txt # Example system log file (input)
-'''
+├── README.md                        # Project documentation
+├── ai_log_analysis_script.py        # Python script for log anomaly detection
+└── system_logs.txt                  # Dataset
 
 ## Requirements
 
